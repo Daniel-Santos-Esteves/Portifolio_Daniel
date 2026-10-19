@@ -1,0 +1,71 @@
+body {
+    background-color:rgb(177, 255, 221);
+}
+
+#Estudo {
+    background-color:rgb(143, 231, 255);
+}
+
+#estudante {
+    background-color: rgb(143, 231, 255);
+    width: 700;
+}
+
+#Habilidades {
+    background-color: rgb(143, 231, 255);
+    font-family: 700;
+}
+
+#Sobre_mim {
+    background-color: rgb(143, 231, 255);
+    font-size: 700;
+}
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid rgb(0, 92, 128);
+  padding: 50px;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.container div {
+  background-color:rgb(177, 255, 221);
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+
+body {
+            font-family: Arial, sans-serif;
+            font-size: 1rem; 
+            line-height: 1.5;
+            margin: 0;
+            padding: 1rem;
+            background-color:rgb(177, 255, 221);
+        }
+
+.container {
+            width: 100%;           
+            max-width: 800px;        
+            margin: 0 auto;        
+            background: white;
+            padding: 2rem;          
+            box-sizing: border-box;  
+        }
+
+ img {
+            max-width: 100%;        
+            height: auto;            
+            display: block;
+        }
+
+ h1 {
+            font-size: 2rem;         
+            margin-bottom: 1.5rem;
+        }
